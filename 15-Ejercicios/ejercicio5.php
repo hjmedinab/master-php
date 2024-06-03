@@ -10,7 +10,6 @@
  * Cada columna debe ir en un fichero separado
  */
 
-
 $tabla = array (
     "Accion" => array("GTA","COD","PUBG"),
     "Aventura" => array("Assasins","Crash","Prince of Persia"),
