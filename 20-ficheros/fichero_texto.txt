@@ -1,0 +1,2 @@
+fichero de texto para leer en php
+fichero linea2
